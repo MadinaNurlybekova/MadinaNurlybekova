@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Madina</h1>
 
-<!--
-**MadinaNurlybekova/MadinaNurlybekova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently studying **at 42 Prague**
 
-Here are some ideas to get you started:
+[![mnurlybe's 42 stats](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/stats?cursusId=21&coalitionId=313)](https://github.com/JaeSeoKim/badge42)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![mnurlybe's 42 stats](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/stats?cursusId=9&coalitionId=286)](https://github.com/JaeSeoKim/badge42)
+
+### Projects from 42 Prague
+
+Libft
+[![mnurlybe's 42 Libft Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/2931675)](https://github.com/JaeSeoKim/badge42)
+
+get_next_line 
+[![mnurlybe's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/2948227)](https://github.com/JaeSeoKim/badge42)
+
+ft_printf
+[![mnurlybe's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/2962122)](https://github.com/JaeSeoKim/badge42)
+
+Born2beroot
+[![mnurlybe's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/3005730)](https://github.com/JaeSeoKim/badge42)
+
+Exam Rank 02
+[![mnurlybe's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/3048152)](https://github.com/JaeSeoKim/badge42)
+
+push_swap 
+[![mnurlybe's 42 push_swap Score](https://badge42.vercel.app/api/v2/cljekyrzr001108mitzmphyj1/project/3073201)](https://github.com/JaeSeoKim/badge42)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
